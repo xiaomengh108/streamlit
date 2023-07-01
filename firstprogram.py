@@ -88,16 +88,7 @@ if coffee:
 if cola:
     st.write("Here you go 🥤")
 
-
-
-
-
-
-
-
-
-
-
+st.write(2+3)
 
 
 
